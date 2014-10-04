@@ -1,0 +1,1 @@
+This is Tom Joseph's attempt to stick with Rails and GIT and RSPEC and create a simple oline testing application.  My the coding gods give me the patience and determination to stick it out.  
